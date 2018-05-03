@@ -8,5 +8,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary"/>
+	<classpathentry kind="lib" path="/mod3-solution"/>
+	<classpathentry kind="lib" path="/RemoteSystemsTempFiles"/>
+	<classpathentry kind="lib" path="/Servers"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
